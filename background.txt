@@ -1,0 +1,7 @@
+1. box-sizing: border-box;
+2. background-clip: border-box; // padding-box , content-box
+3. background-image: url(link);
+4. background-size: 100%/ contain / cover / // Kích thu?c ?nh l?y theo 100% th?c t? ho?c l?y theo chi?u dài ho?c tràn 1 trang
+5. background-origin: border-box / content-box/ padding-box // hình ?nh d? t? border vào hay content vào hay padding box vào
+6. background-position: top / bottom / left / right / 100px / top center / bottom center / top 20px right 20px / top 20% right 20% / 20px 50px
+7. background: url (link) no-repeat color /contain/....
